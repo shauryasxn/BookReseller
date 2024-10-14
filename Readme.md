@@ -1,0 +1,1 @@
+Book Reselling is a web application that allows users to buy and sell books. The platform enables users to register, log in, list their books for sale, and browse available books. It features user authentication, book management, and a reporting system for sold books.
